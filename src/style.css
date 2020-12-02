@@ -1,0 +1,14 @@
+.global {
+  display: flex;
+  justify-content: center;
+}
+img {
+  margin-top: 3em;
+}
+h1 {
+  margin-left: 5em;
+}
+p {
+  margin-left: 10em;
+  margin-top: -1em;
+}
